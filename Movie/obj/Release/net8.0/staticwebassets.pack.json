@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\syase\\source\\repos\\BlazorGitHubPages\\Movie\\bin\\Release\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\syase\\source\\repos\\BlazorGitHubPages\\Movie\\obj\\Release\\net8.0\\compressed\\c8rls77peo.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\syase\\source\\repos\\BlazorGitHubPages\\Movie\\obj\\Release\\net8.0\\scopedcss\\bundle\\Movie.styles.css",
+      "PackagePath": "staticwebassets\\Movie.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\syase\\source\\repos\\BlazorGitHubPages\\Movie\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\syase\\source\\repos\\BlazorGitHubPages\\Movie\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\syase\\source\\repos\\BlazorGitHubPages\\Movie\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\syase\\source\\repos\\BlazorGitHubPages\\Movie\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\syase\\source\\repos\\BlazorGitHubPages\\Movie\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\syase\\source\\repos\\BlazorGitHubPages\\Movie\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\syase\\source\\repos\\BlazorGitHubPages\\Movie\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.Movie.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.Movie.props",
+      "PackagePath": "build\\Movie.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Movie.props",
+      "PackagePath": "buildMultiTargeting\\Movie.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.Movie.props",
+      "PackagePath": "buildTransitive\\Movie.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,1 @@
+C:\Users\syase\source\repos\BlazorGitHubPages\Movie\bin\Release\net8.0\publish\web.config
