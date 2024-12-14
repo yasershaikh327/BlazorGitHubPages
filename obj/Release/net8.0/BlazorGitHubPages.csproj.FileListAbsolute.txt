@@ -1,0 +1,7 @@
+C:\Users\syase\source\repos\BlazorGitHubPages\obj\Release\net8.0\BlazorGitHubPages.csproj.AssemblyReference.cache
+C:\Users\syase\source\repos\BlazorGitHubPages\obj\Release\net8.0\BlazorGitHubPages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syase\source\repos\BlazorGitHubPages\obj\Release\net8.0\BlazorGitHubPages.AssemblyInfoInputs.cache
+C:\Users\syase\source\repos\BlazorGitHubPages\obj\Release\net8.0\BlazorGitHubPages.AssemblyInfo.cs
+C:\Users\syase\source\repos\BlazorGitHubPages\obj\Release\net8.0\BlazorGitHubPages.csproj.CoreCompileInputs.cache
+C:\Users\syase\source\repos\BlazorGitHubPages\obj\Release\net8.0\BlazorGitHubPages.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\syase\source\repos\BlazorGitHubPages\obj\Release\net8.0\BlazorGitHubPages.sourcelink.json
